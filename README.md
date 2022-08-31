@@ -12,3 +12,9 @@ I am a Polymath - Technocrat Entrepreneur, Manager, Creative Visualizer, Innovat
 - 😄 Pronouns: He/His
 - 🚴🏽‍♀️ Fun fact: I love trekking and play football.
 - 🎮 Gaming: Rocket League.
+
+
+
+## Statistics
+
+<a href="https://github.com/iraycd"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraycd&layout=compact&langs_count=10&hide_border=true&theme=onedark&custom_title=Most+used+languages" alt="iraycd's language stats" /></a>
