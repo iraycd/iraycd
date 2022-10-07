@@ -5,8 +5,8 @@
 I am a Polymath - Technocrat Entrepreneur, Manager, Creative Visualizer, Innovator, and Leader - having a very rich and varied experience of 10 years on a wide range of Technologies, Domains, Managerial and Functional specialties.
 
 - 📍 Hyderabad, India 🇮🇳
-- 📱 I work remote from 🏡  with [Everreal Gmph 🇩🇪  ](https://www.everreal.co/)  as a senior full-stack product developer since 2019, Everreal is a digital solution for the rental and sales process.
-- 🤓 Currently Learning Investing, Go Lang and AI.
+- 📱 I work with [Ethan AI 🇸🇬](https://www.ethan-ai.com/) as a lead engineer from Oct, 2022.  Ethan is a Wealth Management solutions for HNI.
+- 🤓 Learning all the asset classes.
 - 💬 Ask me anything related to Startups, Investing or trading, SaaS, IoT, Healthcare and E-commerce.
 - 📬 Reach me on [Twitter](https://twitter.com/iraycd).
 - 😄 Pronouns: He/His
