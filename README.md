@@ -4,11 +4,10 @@
 
 I am a Polymath - Technocrat Entrepreneur, Manager, Creative Visualizer, Innovator, and Leader - having a very rich and varied experience of 10 years on a wide range of Technologies, Domains, Managerial and Functional specialties.
 
-- 📍 Hyderabad, India 🇮🇳
-- 📱 I am currently giving eCTO support to startups.
-- 🤓 Learning Portfolio Management and Risk Analysis.
+- 📍 Bengaluru, India 🇮🇳
+- 📱 I am working in Teja.app
+- 🤓 Introspection on my own mental health.
 - 💬 Ask me anything related to Startups, Investing or trading, SaaS, IoT, Healthcare and E-commerce.
-- 📬 Reach me on [Twitter](https://twitter.com/iraycd).
 - 😄 Pronouns: He/His
 - 🚴🏽‍♀️ Fun fact: I love trekking and play football.
 - 🎮 Gaming: Rocket League.
