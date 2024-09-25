@@ -9,7 +9,7 @@ I am a Polymath - Technocrat Entrepreneur, Manager, Creative Visualizer, Innovat
 - 🤓 Introspection on my own mental health.
 - 💬 Ask me anything related to Startups, Investing or trading, SaaS, IoT, Healthcare and E-commerce.
 - 😄 Pronouns: He/His
-- 🚴🏽‍♀️ Fun fact: I love trekking and play football.
+- 🚴🏽‍♀️ Fun fact: I play badminton, football and love to trek.
 - 🎮 Gaming: Rocket League.
 
 
